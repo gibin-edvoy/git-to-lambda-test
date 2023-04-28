@@ -1,1 +1,9 @@
+opencv-python
+imutils
+pdf2image
+numpy
 pandas
+requests
+Pillow
+PassportEye
+boto3
