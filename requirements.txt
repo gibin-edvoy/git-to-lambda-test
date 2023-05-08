@@ -1,8 +1,8 @@
-# opencv-python
+opencv-python
 # imutils
 # pdf2image
 # numpy
-pandas
+# pandas
 # requests
 # Pillow
 # PassportEye
